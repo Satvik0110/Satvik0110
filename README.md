@@ -1,10 +1,6 @@
 <h1 align="center">Hi,I'm Satvik👋</h1>
 <h3 align="center">Tech enthusiast with a love for full-stack development and machine learning — building apps that are not just functional, but intelligent.
 </h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Satvik0110&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 ---
 
 ### 🚀 About Me
@@ -71,14 +67,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satvik0110&theme=tokyonight" alt="Streak Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satvik0110&layout=compact&theme=tokyonight" />
-</p>
-
 ---
-
-### 🎨 GitHub Dashboard
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Satvik0110&theme=tokyonight" />
-</p>
