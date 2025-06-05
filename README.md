@@ -1,7 +1,7 @@
 <h1 align="center">Hi,I'm Satvik👋</h1>
 <h3 align="center">Tech enthusiast with a love for full-stack development and machine learning — building apps that are not just functional, but intelligent.
 </h3>
-
+<br><br>
 
 ### 🚀 About Me
 
@@ -14,7 +14,7 @@
 
 
 ---
-### Tech Stack
+### 💻 Tech Stack
 
 #### 🧠 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
