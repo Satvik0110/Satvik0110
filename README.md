@@ -1,5 +1,6 @@
 <h1 align="center">Hi,I'm Satvik👋</h1>
-<h3 align="center">Passionate about software development and!</h3>
+<h3 align="center">Tech enthusiast with a love for full-stack development and machine learning — building apps that are not just functional, but intelligent.
+</h3>
 
 ---
 
@@ -9,7 +10,7 @@
 - 🔭 Currently developing **mobile apps with React Native** and learning **Next.js** for web development
 - 🐳 Exploring **containerization and deployment** using **Docker**
 - 👯 Always excited to collaborate on **ML-integrated apps**, **full-stack projects**, and **open-source initiatives**
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN/) or email: `your.email@iitj.ac.in`
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/satvik-garg-2a2a64285/) or email: `b23ee1094@iitj.ac.in`
 
 
 
@@ -40,7 +41,7 @@
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satvik-garg-2a2a64285/)
 
 ---
 
